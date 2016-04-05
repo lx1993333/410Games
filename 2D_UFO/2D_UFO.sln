@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FFB5119F-2A2A-B832-0F4D-77503D7F98D0}") = "2D_UFO", "Assembly-CSharp.csproj", "{9780E80E-6564-6719-440F-4648D5444532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9780E80E-6564-6719-440F-4648D5444532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9780E80E-6564-6719-440F-4648D5444532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9780E80E-6564-6719-440F-4648D5444532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9780E80E-6564-6719-440F-4648D5444532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
